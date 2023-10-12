@@ -3,6 +3,9 @@
 # Architecture - MVVM 
 
   **Demo Video**<br/>
+  
+  https://github.com/IslamMagd/news_app/assets/127500993/80bacdfe-274e-47d7-a334-c8522417b45d
+
 
  #  libraries and tools
 
