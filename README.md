@@ -14,5 +14,4 @@
 - [coroutines](https://developer.android.com/kotlin/coroutines)
 - [viewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
 - [Retrofit](https://square.github.io/retrofit/)
--  
 ### Thanks For Reading.
